@@ -1,13 +1,3 @@
-The readme.md file should include the following:
-
-1) Your ERC-721 Token Name
-	Noosa
-2) Your ERC-721 Token Symbol
-	NSA
-3) Version of the Truffle and OpenZeppelin used
-	Truffle v5.1.1
-	openzeppelin-solidity 2.1.2
-	
 # Building a Cryprostar Dapp on Etherem
 This project is the second project in the Udacity blockchain developer nanodegree. The project creates an ERC-721 token (called Noosa, has the sybol NSA). The Noosa token is non-fungible; meaning that each Noosa token has a different name, ID, and other properties. The project allows Ethereum users to register, exchange, transfer and lookup Noosa tokens. 
 
